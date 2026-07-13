@@ -9,7 +9,7 @@ Please copy the following files from your local system cache:
 📁 "C:\Users\anmol\.gemini\antigravity\brain\c78c7729-ecdd-493e-a8a0-71f7665c4eed\"
 
 Into this folder ("images/"):
-1. Copy "media__1783882999230.jpg" -> rename to "logo.jpg"
+1. Copy "media__1783946193874.jpg" -> rename to "logo.jpg"  <-- (New date-removed green & gold logo!)
 2. Copy "hero_indian_1783883378329.jpg" -> rename to "hero_indian.jpg"
 3. Copy "india_map_1783882369441.jpg" -> rename to "india_map.jpg"
 
